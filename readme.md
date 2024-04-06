@@ -3,9 +3,13 @@
 This repository contains a Jupyter notebook `rag.ipynb` that demonstrates the use of the `langchain` library to implement a Retrieval-Augmented Generation model for natural language processing tasks. The project integrates functionalities like vector storage with FAISS, document loading, and text splitting, alongside the usage of OpenAI embeddings and language models.
 
 
-[![langchain](https://img.shields.io/badge/langchain-powered-blue.svg)](https://github.com/your-username/langchain-repo)
-[![FAISS](https://img.shields.io/badge/FAISS-indexing-red.svg)](https://github.com/facebookresearch/faiss)
+Integrating powerful tools like `langchain`, `FAISS`, `OpenAI`, `Ollama`, and `ChromaDB` for state-of-the-art data processing and machine learning.
+
+[![langchain](https://img.shields.io/badge/langchain-integration-blue.svg)](https://github.com/your-username/langchain-repo)
+[![FAISS](https://img.shields.io/badge/FAISS-fast%20indexing-red.svg)](https://github.com/facebookresearch/faiss)
 [![OpenAI](https://img.shields.io/badge/OpenAI-API-green.svg)](https://openai.com/api/)
+[![Ollama](https://img.shields.io/badge/Ollama-service-purple.svg)](https://ollama.your-service-url.com)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-database-orange.svg)](https://chromadb.your-database-url.com)
 
 ## Overview
 
