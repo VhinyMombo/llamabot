@@ -3,11 +3,9 @@
 This repository contains a Jupyter notebook `rag.ipynb` that demonstrates the use of the `langchain` library to implement a Retrieval-Augmented Generation model for natural language processing tasks. The project integrates functionalities like vector storage with FAISS, document loading, and text splitting, alongside the usage of OpenAI embeddings and language models.
 
 
-[![Conda Version](https://img.shields.io/conda/vn/conda-forge/your-package-name.svg)](https://anaconda.org/conda-forge/your-package-name)
-[![Platform](https://img.shields.io/badge/platform-linux--64%20|%20osx--arm64%20|%20win--64%20|%20osx--64%20|%20linux--aarch64-lightgrey.svg)]()
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![CircleCI](https://circleci.com/gh/your-username/your-repo.svg?style=shield)](https://circleci.com/gh/your-username/your-repo)
-
+[![langchain](https://img.shields.io/badge/langchain-powered-blue.svg)](https://github.com/your-username/langchain-repo)
+[![FAISS](https://img.shields.io/badge/FAISS-indexing-red.svg)](https://github.com/facebookresearch/faiss)
+[![OpenAI](https://img.shields.io/badge/OpenAI-API-green.svg)](https://openai.com/api/)
 
 ## Overview
 
