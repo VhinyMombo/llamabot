@@ -11,6 +11,9 @@ Integrating powerful tools like `langchain`, `FAISS`, `OpenAI`, `Ollama`, and `C
 [![Ollama](https://img.shields.io/badge/Ollama-service-purple.svg)](https://ollama.your-service-url.com)
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-database-orange.svg)](https://chromadb.your-database-url.com)
 
+
+As a quick presentation of our project's retrieval capabilities, we have implemented a model that specifically handles queries related to the works of Thomas Sowell. Through the incorporation of advanced NLP techniques and leveraging the knowledge base of Sowell's extensive writings, our system provides insightful responses and references, showcasing the practical applications of our integrated tools.
+
 ## Overview
 
 The notebook provides an example of how to:
