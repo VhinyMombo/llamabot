@@ -74,6 +74,17 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 4. Push to the branch.
 5. Open a pull request.
 
+
+## Future Roadmap
+
+In the spirit of fostering an open and collaborative environment, our next steps involve transitioning to a completely open-source model. We are committed to achieving this by:
+
+- Adopting **Ollama** for the language models and embeddings, providing a community-driven alternative to proprietary systems.
+- Integrating **ChromaDB** or others databases as vector database, enhancing accessibility and enabling seamless scaling.
+- Ensuring the entire toolchain, from data processing to retrieval, is open to contribution and use by the community.
+
+Our goal is to democratize access to advanced machine learning models and tools, making them freely accessible to everyone. Stay tuned for updates as we make progress towards this exciting milestone!
+
 ## License
 
 This project is open-sourced under the MIT License. See the `LICENSE` file in this repository for the full text.
