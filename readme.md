@@ -1,4 +1,5 @@
-# Retrieval-Augmented Generation (RAG) Project
+# Retrieval-Augmented Generation (RAG) -- Thomas Sowell Case
+
 
 This repository contains a Jupyter notebook `rag.ipynb` that demonstrates the use of the `langchain` library to implement a Retrieval-Augmented Generation model for natural language processing tasks. The project integrates functionalities like vector storage with FAISS, document loading, and text splitting, alongside the usage of OpenAI embeddings and language models.
 
