@@ -6,11 +6,11 @@ This repository contains a Jupyter notebook `rag.ipynb` that demonstrates the us
 
 Integrating powerful tools like `langchain`, `FAISS`, `OpenAI`, `Ollama`, and `ChromaDB` for state-of-the-art data processing and machine learning.
 
-[![langchain](https://img.shields.io/badge/langchain-integration-blue.svg)](https://github.com/your-username/langchain-repo)
+[![langchain](https://img.shields.io/badge/langchain-integration-blue.svg)](https://www.langchain.com)
 [![FAISS](https://img.shields.io/badge/FAISS-fast%20indexing-red.svg)](https://github.com/facebookresearch/faiss)
-[![OpenAI](https://img.shields.io/badge/OpenAI-API-green.svg)](https://openai.com/api/)
-[![Ollama](https://img.shields.io/badge/Ollama-service-purple.svg)](https://ollama.your-service-url.com)
-[![ChromaDB](https://img.shields.io/badge/ChromaDB-database-orange.svg)](https://chromadb.your-database-url.com)
+[![OpenAI](https://img.shields.io/badge/OpenAI-API-green.svg)]([https://openai.com/api/](https://openai.com))
+[![Ollama](https://img.shields.io/badge/Ollama-service-purple.svg)]([https://ollama.your-service-url.com](https://ollama.com))
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-database-orange.svg)]([https://chromadb.your-database-url.com](https://www.trychroma.com))
 
 
 As a quick presentation of our project's retrieval capabilities, we have implemented a model that specifically handles queries related to the works of Thomas Sowell. Through the incorporation of advanced NLP techniques and leveraging the knowledge base of Sowell's extensive writings, our system provides insightful responses and references, showcasing the practical applications of our integrated tools.
